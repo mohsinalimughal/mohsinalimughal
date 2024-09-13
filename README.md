@@ -15,5 +15,4 @@ i'm Mohsin Ali Mughal
 <h2> 💻 i'm currently learning</h2>
 
 - Web Development at SMIT.
-- Edvance python at Bano qabil.
 
