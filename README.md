@@ -1,33 +1,94 @@
-![my image](./image.jpg)
-
-<!---
-mohsinalimughal/mohsinalimughal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinalimughal" alt="mohsinalimughal" /> </p>
-
-<h2> Hey! 👋 </h2>
-
-i'm Mohsin Ali Mughal
-- Programmer
-- Enthusiasist about cyber security
-- I am Passionate about technology
-
-
-<h2> 💻 i'm currently learning</h2>
-
-- Web Development at SMIT.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Mohsin_Ali_info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@suleman khan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohsinalimughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad suleman" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100092280105525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khan sahab" height="30" width="40" /></a>
+<!-- Professional Banner -->
+<p align="center">
+  <img src="./image.jpg" alt="Professional Banner" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsinalimughal&show_icons=true&locale=en&layout=compact" alt="muhammadsulemankhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsinalimughal&show_icons=true&locale=en" alt="muhammadsulemankhan" /></p>
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohsinalimughal&label=Profile+Views&color=6e40c9&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinalimughal&" alt="muhammadsulemankhan" /></p>
+<!-- Name & Headline -->
+<h1 align="center">
+  Hello 👋 I'm <strong>Mohsin Ali Mughal</strong>
+</h1>
+
+<h3 align="center">
+  Full-Stack Developer (MERN) | Cybersecurity Enthusiast | AI Explorer | Team Lead @ Explosion Services
+</h3>
+
+---
+
+### 🔹 About Me
+
+- 💻 Full-stack developer skilled in building scalable and secure web applications using **React**, **Node.js**, and **Firebase**.
+- 🛡️ Passionate about **cybersecurity** and committed to best practices in ethical hacking and secure development.
+- 🧠 Currently serving as **Team Lead at Explosion Services**, managing a 7-member editing team in the medical documentation domain.
+- 🎓 Mentor and public speaker—actively engaging with communities and institutions such as TCF College.
+- ☕ Strong believer in consistency, curiosity, and a good cup of coffee.
+
+---
+
+### 🧰 Technical Proficiencies
+
+#### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,redux" />
+</p>
+
+#### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,python" />
+</p>
+
+#### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,aws" />
+</p>
+
+---
+
+### 📌 Selected Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Real-Time Chat App](https://github.com/mohsinalimughal/chat-app) | End-to-end encrypted messaging platform. | React, Firebase, Node.js |
+| [Developer Portfolio](https://github.com/mohsinalimughal/dev-portfolio) | Personal portfolio template for developers. | Next.js, Tailwind CSS |
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohsinalimughal&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinalimughal&layout=compact&theme=midnight-purple&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohsinalimughal&theme=midnight-purple&hide_border=false&fire=6E40C9&ring=6E40C9" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohsinalimughal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Mohsin_Ali_info" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💬 Personal Insight
+
+> _"Develop with intention. Secure with precision. Lead with integrity."_  
+> — **Mohsin Ali Mughal**
+
+---
