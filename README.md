@@ -70,21 +70,82 @@
 
 ---
 
+
+---
+
+### 🏅 GitHub Badges
+
+<p align="center">
+  <!-- Followers and Stars -->
+  <a href="https://github.com/mohsinalimughal">
+    <img src="https://img.shields.io/github/followers/mohsinalimughal?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/mohsinalimughal?tab=repositories">
+    <img src="https://img.shields.io/github/stars/mohsinalimughal?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
+
+  <!-- Commits and Contributions -->
+  <a href="https://github.com/mohsinalimughal">
+    <img src="https://img.shields.io/badge/Commits%20this%20year-✔️%20High-green?style=flat-square&logo=github" alt="Commits" />
+  </a>
+  <a href="https://github.com/mohsinalimughal">
+    <img src="https://img.shields.io/badge/Contributions-365%2B-yellowgreen?style=flat-square&logo=github" alt="Contributions" />
+  </a>
+
+  <!-- Repositories and Gists -->
+  <a href="https://github.com/mohsinalimughal?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-✔️%2025%2B-blueviolet?style=flat-square" alt="Repos" />
+  </a>
+  <a href="https://gist.github.com/mohsinalimughal">
+    <img src="https://img.shields.io/badge/Gists-Active-lightgrey?style=flat-square" alt="Gists" />
+  </a>
+
+  <!-- Account Age and Activity -->
+  <a href="https://github.com/mohsinalimughal">
+    <img src="https://img.shields.io/badge/Years%20on%20GitHub-2-blue?style=flat-square&logo=github" alt="Years on GitHub" />
+  </a>
+  <a href="https://github.com/mohsinalimughal">
+    <img src="https://img.shields.io/badge/Active%20Days-🔥%20Consistent-critical?style=flat-square" alt="Active Days" />
+  </a>
+
+  <!-- Profile Rank from Metrics -->
+
+</p>
+
+---
+
+
+
+
+
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/mohsinalimughal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/Mohsin_Ali_info" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mohsinalimughalofficial786@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/mohsinalimughal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/mohsin_ali_mughal_official" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://mohsinalimughal.github.io/mohsin-ali-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
 
 ---
+
 
 ### 💬 Personal Insight
 
